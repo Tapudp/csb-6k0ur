@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://tapudp.github.io/csb-6k0ur/precache-manifest.dab9866e4617581f9af393c225949192.js"
+  "https://tapudp.github.io/csb-6k0ur/precache-manifest.cbc6acb4bdce6752a1319ccf02ea9c3f.js"
 );
 
 self.addEventListener('message', (event) => {

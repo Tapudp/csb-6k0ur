@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd1ef55a0f9ba3bdeff0f0a1f7922980",
+    "revision": "27c9ee5d4dc6b9d9277f559aa673d3f9",
     "url": "https://tapudp.github.io/csb-6k0ur/index.html"
   },
   {
