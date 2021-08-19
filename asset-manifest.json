@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://tapudp.github.io/csb-6k0ur/static/css/main.9b1431d8.chunk.css",
+    "main.js": "https://tapudp.github.io/csb-6k0ur/static/js/main.5f0f8470.chunk.js",
+    "main.js.map": "https://tapudp.github.io/csb-6k0ur/static/js/main.5f0f8470.chunk.js.map",
+    "runtime-main.js": "https://tapudp.github.io/csb-6k0ur/static/js/runtime-main.e3e816ba.js",
+    "runtime-main.js.map": "https://tapudp.github.io/csb-6k0ur/static/js/runtime-main.e3e816ba.js.map",
+    "static/js/2.71305984.chunk.js": "https://tapudp.github.io/csb-6k0ur/static/js/2.71305984.chunk.js",
+    "static/js/2.71305984.chunk.js.map": "https://tapudp.github.io/csb-6k0ur/static/js/2.71305984.chunk.js.map",
+    "index.html": "https://tapudp.github.io/csb-6k0ur/index.html",
+    "precache-manifest.dab9866e4617581f9af393c225949192.js": "https://tapudp.github.io/csb-6k0ur/precache-manifest.dab9866e4617581f9af393c225949192.js",
+    "service-worker.js": "https://tapudp.github.io/csb-6k0ur/service-worker.js",
+    "static/css/main.9b1431d8.chunk.css.map": "https://tapudp.github.io/csb-6k0ur/static/css/main.9b1431d8.chunk.css.map",
+    "static/js/2.71305984.chunk.js.LICENSE.txt": "https://tapudp.github.io/csb-6k0ur/static/js/2.71305984.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3e816ba.js",
+    "static/js/2.71305984.chunk.js",
+    "static/css/main.9b1431d8.chunk.css",
+    "static/js/main.5f0f8470.chunk.js"
+  ]
+}
